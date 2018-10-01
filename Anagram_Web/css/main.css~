@@ -1,0 +1,14 @@
+div.panel.panel-default {
+    width: 80%;
+    margin-left: 10%;
+}
+
+a.collapse-header {
+    text-decoration: none;
+    cursor: pointer;
+    color: black;
+}
+
+.list-group li {
+    list-style: none;
+}
